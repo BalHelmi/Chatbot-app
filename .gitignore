@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 Coffe_intents.json
+Notes.txt
 *.py[cod]
 *$py.class
 
