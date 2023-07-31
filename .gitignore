@@ -5,6 +5,9 @@ Notes.txt
 *.py[cod]
 *$py.class
 
+venv
+.DS_Store
+
 # C extensions
 *.so
 
