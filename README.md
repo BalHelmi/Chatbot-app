@@ -16,7 +16,7 @@ AIChatBot is an intelligent chatbot built to provide users with a conversational
 
 ## Demo
 
-![](Demo.webm)
+https://drive.google.com/file/d/1RTKnzDYyzuPD-FAGyAZ2fx1rJ6lPTCwd/view?usp=sharing
 
 ## Installation
 
@@ -47,7 +47,7 @@ nltk 3.7
 
 Pillow 8.3.1
 
-torch 1.9.0
+torch 2.0.1
 
 numpy 1.21.5
 
