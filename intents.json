@@ -33,7 +33,8 @@
       "patterns": [
         "What is MLOps?",
         "Explain MLOps",
-        "Can you tell me about MLOps?"
+        "Can you tell me about MLOps?",
+        "Tell me about MLOps?"
       ],
       "responses": [
         "MLOps, short for Machine Learning Operations, is the practice of applying DevOps principles to the ML lifecycle. It aims to streamline and automate ML workflows, ensuring reproducibility, scalability, and collaboration in deploying ML models. Have more MLOps questions?",
