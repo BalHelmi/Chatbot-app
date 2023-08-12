@@ -11,8 +11,6 @@ AIChatBot is an intelligent chatbot built to provide users with a conversational
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Docker](#docker)
-- [License](#license)
-- [Contact](#contact)
 
 ## Demo
 
